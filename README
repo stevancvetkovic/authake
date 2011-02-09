@@ -4,12 +4,13 @@ Features:
 * registration with e-mail confirmation
 * password resets by e-mail
 * listing rules and users
-* SSL client certificate authentication
+* SSL client certificate authenticatio
+* SSL client certificates Web management
 * easy web management of users and rules
 
 Requirements:
 * Apache Web server 2.2.x or newer
-* MySQL Server 5.x
+* MySQL Server 5.1.x
 * CakePHP 1.2.x
 * OpenSSL 0.98 or newer
 * DNS server (BIND 9.x recommended)
