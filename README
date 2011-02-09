@@ -1,4 +1,4 @@
-Authake is an authentication and authorization plugin for CakePHP 1.2.x. It was made for the purposes of Medical Information Systems course at Faculty of Electronic Engineering, University of Nis, Serbia. This specific branch adds support for authentication with SSL client certificates.
+Authake is an authentication and authorization plugin for CakePHP 1.2.x. This specific branch adds support for authentication with SSL client certificates and it was made for the purposes of Medical Information Systems course at Faculty of Electronic Engineering, University of Nis, Serbia. 
 
 Features:
 * registration with e-mail confirmation
